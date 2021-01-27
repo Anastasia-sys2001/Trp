@@ -1,0 +1,120 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+
+.titul{
+    background-color: dimgray;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    border-bottom: 2px solid red;
+}
+.login{
+    display:flex;
+    align-items: center;
+
+}
+.hhj{
+    margin: 20px;
+    color: black;
+}
+.name{
+    color: black;
+    font-size: 20px;
+margin-left: 20px;
+}
+.blog{
+    color: black;
+    margin-left: 20px;
+
+
+}
+.name{
+    color: black;
+
+}
+.picture{
+    flex-direction: column;
+    align-content: space-between;
+    height: 300px;
+    width: 300px;
+
+}
+.text{
+    color: black;
+    font-size: x-large;
+    padding-left: 100px;
+    display: flex;
+    align-content: flex-end;
+
+
+}
+.page{
+    margin-left:100px;
+
+
+    color: darkgray;
+}
+.info{
+    display: flex;
+}
+.jjk{
+    display: flex;
+     justify-content: center;
+    color: black;
+    font-size: large;
+}
+.kk{
+    color: black;
+    font-size: 20px;
+
+}
+.pp{
+display: flex;
+    justify-content: flex-end;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+.dd{
+    padding-left: 20px;
+}
+body{
+    background-image: url("../img/gh.png");
+    background-size: 100%;
+}
+.more{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.zzz{
+    color: black;
+    margin-left: 20px;
+
+
+}
+.names{
+    color: black;
+}
+.username{
+    display:flex;
+    align-items: center;
+}
+.www{
+    margin: 20px;
+    color: black;
+}
+.bb{
+    color: black;
+    font-size: 20px;
+}
+
+
+
