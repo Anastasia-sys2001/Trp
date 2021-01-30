@@ -1,0 +1,72 @@
+*{margin: 0; padding: 0;}
+.pictures{
+    height: 300px;
+    width: 200px;
+    float: left;
+
+
+}
+.block{height: 800px;
+    margin: 10px;
+    border: solid 5px black;
+
+}
+.book{
+height: 300px;
+border-bottom:solid 5px black ;
+}
+.me {
+    margin-left: 86%;
+}
+.aboutbook{
+    margin-top: 2%;
+}
+.aboutbook p {
+    margin-left: 15%;
+    font-size:21px ;
+    font-weight: bold;
+}
+.zagolovok{
+    margin-left: 35%;
+    color: green;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.zagolovok2{
+    margin-left: 91%;
+    color: green;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.opys{
+    height: 80px;
+}
+.pictures1{
+    height: 300px;
+    width: 200px;
+    float: left;
+}
+.autor{
+    border-top: solid 5px black;
+    height: 320px;
+}
+.author {
+    margin-left: 15%;
+    font-size: 21px;
+    font-weight: bold;
+
+
+}
+.information{
+    display: block;
+    border-top: solid 5px black;
+
+}
+.zmist{
+    font-size: 25px;
+    text-decoration: underline;
+    color: red;
+
+}
+
+

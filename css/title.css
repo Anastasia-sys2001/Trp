@@ -3,7 +3,7 @@
     margin: 0;
 }
 .heder{
-    background-color: dimgray;
+    background-color: lightslategrey;
     display: flex;
     justify-content: space-between;
     border: 1px solid black;
@@ -22,6 +22,7 @@ min-height: 100px;
 .blog{
     color: black;
     margin-left: 20px;
+
 }
 .titul{
     display: flex;
@@ -35,10 +36,10 @@ min-height: 100px;
     min-height: 50px;
 }
 .login{
-
+    align-items: center;
     display: flex;
     justify-content: space-between;
-background-color: red;
+
 }
 
 
@@ -54,7 +55,7 @@ background-color: red;
     display: flex;
     justify-content: center;
     flex-direction: column;
-background-color: aquamarine;
+background-color: lightslategrey;
    height: 150px;
 
 }
@@ -69,6 +70,34 @@ background-color: aquamarine;
 .enter {
     height: 300px;
     width: 400px;
-    background-color: red;
+    background-color: lightslategrey;
     margin-top: 50px;
 }
+.vvv{
+    display: flex;
+    justify-content: center;
+}
+.form {
+text-align: center;
+    margin-top: 80px;
+}
+.for{
+    padding-top: 10px;
+}
+#first {
+    margin-right: 36px;
+
+}
+.label{
+    margin: 10px;
+}
+.buttom{
+    margin-left: 160px;
+}
+.hhj{
+    text-decoration: none;
+}
+
+
+
+
