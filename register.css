@@ -1,4 +1,4 @@
-.body{
+body{
     padding: 0;
     margin: 0;
 }
@@ -63,10 +63,10 @@
 }
 
 .enter {
-    height: 300px;
+    margin : 20px 20px;
+    padding: 0;
     width: 400px;
     background-color: lightslategrey;
-    margin-top: 50px;
 }
 .vvv{
     display: flex;
@@ -109,3 +109,47 @@
     display: flex;
     justify-content: center;
 }
+.secondname{
+margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.registers{
+    margin-left: 200px;
+}
+.form{
+    margin: 10px
+;
+}
+.named{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+
+}
+.logins{
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.groups{
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.password{
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.confirmation{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
