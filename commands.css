@@ -1,0 +1,64 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.heder{
+    background-color: lightslategrey;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    min-height: 100px;
+}
+.titul {
+    display: flex;
+    align-content: flex-start;
+    min-height: 100px;
+}
+.names{
+    display: flex;
+    flex-direction: column;
+    background-color: lightslategrey;
+    min-height: 50px;
+}
+.blog{
+    color: black;
+    margin-left: 20px;
+
+}
+.name{
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.nn{
+    display: flex;
+    justify-content: center;
+}
+.kk{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: lightslategrey;
+    height: 150px;
+
+
+}
+.login{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+.hhj{
+    text-decoration: none;
+}
+.hhj{
+    margin: 20px;
+    color: black;
+
+}
+
